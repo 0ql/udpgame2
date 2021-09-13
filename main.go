@@ -2,7 +2,7 @@ package main
 
 import (
 	"log"
-	"main/extrapolation/server"
+	"main/interpolation/server"
 	"os"
 	"os/exec"
 	"sync"

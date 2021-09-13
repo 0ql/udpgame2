@@ -1,7 +1,7 @@
 package server
 
 import (
-	"main/extrapolation/util"
+	"main/interpolation/util"
 	"time"
 )
 

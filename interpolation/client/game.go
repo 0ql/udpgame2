@@ -1,7 +1,7 @@
 package client
 
 import (
-	"main/extrapolation/util"
+	"main/interpolation/util"
 	"time"
 
 	"github.com/faiface/pixel"

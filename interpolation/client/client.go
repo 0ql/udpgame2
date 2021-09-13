@@ -3,7 +3,7 @@ package client
 import (
 	"fmt"
 	"log"
-	"main/extrapolation/util"
+	"main/interpolation/util"
 	"math"
 	"net"
 	"os"
